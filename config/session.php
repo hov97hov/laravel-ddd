@@ -146,7 +146,7 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Session Cookie Domain
+    | Session Cookie Application
     |--------------------------------------------------------------------------
     |
     | Here you may change the domain of the cookie used to identify a session
